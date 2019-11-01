@@ -1,0 +1,13 @@
+1.Given a sorted array arr[] and a number x, write a function that counts the occurrences of x in arr[]. Expected time complexity is O(Logn).
+
+2.Given number of digits n in a number, print all n-digit numbers whose digits are strictly increasing from left to right.
+
+3.Write a program to print all permutations of a given string without  repeations.
+
+4.Given a sorted array in which all elements appear twice (one after one) and one element appears only once. Find that element in O(log n) complexity.
+
+5.Given an array that represents elements of arithmetic progression in order. One element is missing in the progression, find the missing number.o(logn)
+
+6.calculate all numbers sum present in a string.
+
+7.
